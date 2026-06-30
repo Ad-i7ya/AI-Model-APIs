@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/8Qz5S0K.png" alt="Chainsaw Man AI Model APIs Banner" width="100%" />
+  <img src="https://i.pinimg.com/736x/c8/65/86/c86586748af67cb4f7869b1ae25da44c.jpg" alt="Chainsaw Man Banner" width="100%" />
 </p>
 
 <p align="center">
