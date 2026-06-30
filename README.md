@@ -43,4 +43,9 @@
     "response_time_seconds": 1.307,
     "dev": "[https://github.com/Ad-i7ya](https://github.com/Ad-i7ya)"
   }
-}
+}```
+
+## Usage & Feedback
+This is a personal collection. Please do not open Pull Requests or suggest edits. If you find this collection useful, feel free to **Fork** this repository to your own account and **Star** it to show your support!
+
+**Have a question?** Please use the [Discussions](https://github.com/Ad-i7ya/AI-Model-APIs/discussions) tab to ask questions or share feedback!
