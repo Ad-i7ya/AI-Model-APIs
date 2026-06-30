@@ -76,4 +76,4 @@ This is a personal collection. Please do not open Pull Requests or suggest edits
 **Have a question?** Please use the [Discussions](https://github.com/Ad-i7ya/AI-Model-APIs/discussions) tab to ask questions or share feedback!
 
 ## License
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/Ad-i7ya/AI-Model-APIs?tab=MIT-1-ov-file) for more information.
