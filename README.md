@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://i.pinimg.com/736x/c2/db/62/c2db6244e9b408ab0dc2450a29addf77.jpg" alt="Chainsaw Man Banner" width="100%" /> </p>
+<p align<p align="center"> <img src="https://i.pinimg.com/736x/c2/db/62/c2db6244e9b408ab0dc2450a29addf77.jpg" alt="Chainsaw Man Banner" width="100%" /> </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" />
