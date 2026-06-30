@@ -27,7 +27,6 @@
 | :--- | :--- | :--- |
 | [GPT-5](#gpt-5) | `https://gpt5.adi7ya.workers.dev/?q={query}` | ✅ Active |
 | [Copilot](#copilot) | `https://copilot.adi7ya.workers.dev/?q={query}` | ✅ Active |
-
 ---
 
 ### 🤖 GPT-5
