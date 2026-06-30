@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)
 ![Language](https://img.shields.io/badge/Language-JavaScript-yellow)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Ad-i7ya/AI-Model-APIs)
-[![](https://img.shields.io/github/stars/Ad-i7ya/AI-Model-APIs?style=social)](https://github.com/YOUR_USERNAME/AI-Model-APIs)
+[![](https://img.shields.io/github/stars/Ad-i7ya/AI-Model-APIs?style=social)](https://github.com/Ad-i7ya/AI-Model-APIs)
 
 A collection of free, keyless AI model APIs for quick integration. It utilizes standard GET requests and provides JSON samples for testing. It is designed for easy implementation in any project.
 
