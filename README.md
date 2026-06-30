@@ -1,4 +1,6 @@
-<p align<p align="center"> <img src="https://i.pinimg.com/736x/c2/db/62/c2db6244e9b408ab0dc2450a29addf77.jpg" alt="Chainsaw Man Banner" width="100%" /> </p>
+<p align="center">
+  <img src="https://i.pinimg.com/736x/c2/db/62/c2db6244e9b408ab0dc2450a29addf77.jpg" alt="Chainsaw Man Banner" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" />
@@ -24,6 +26,7 @@
 | Model Name | Endpoint URL | Status |
 | :--- | :--- | :--- |
 | [GPT-5](#gpt-5) | `https://gpt5.adi7ya.workers.dev/?q={query}` | ✅ Active |
+| [Copilot](#copilot) | `https://copilot.adi7ya.workers.dev/?q={query}` | ✅ Active |
 
 ---
 
@@ -32,6 +35,7 @@
 
 ```json
 {
+  "query": "hello",
   "status": true,
   "creator": "Ad-i7ya",
   "response": "Hey there — good to see you. What’s on your mind today?",
@@ -43,7 +47,34 @@
   }
 }
 ```
+---
+
+### 🤖 Copilot
+**Endpoint:** `https://copilot.adi7ya.workers.dev/?q={query}`
+
+```json
+{
+  "query": "hello",
+  "status": true,
+  "creator": "Ad-i7ya",
+  "response": {
+    "text": "Hey there — good to see you. What’s on your mind this afternoon?",
+    "citations": []
+  },
+  "metadata": {
+    "timestamp": "2026-06-30T13:13:51.283Z",
+    "request_id": "a9f9a3c5-1e2e-4c37-afaa-dfc01cea8962",
+    "response_time_seconds": 1.569,
+    "dev": "[https://github.com/Ad-i7ya](https://github.com/Ad-i7ya)"
+  }
+}
+```
+---
+
 ## Usage & Feedback
 This is a personal collection. Please do not open Pull Requests or suggest edits. If you find this collection useful, feel free to **Fork** this repository to your own account and **Star** it to show your support!
 
 **Have a question?** Please use the [Discussions](https://github.com/Ad-i7ya/AI-Model-APIs/discussions) tab to ask questions or share feedback!
+
+## License
+Distributed under the MIT License. See `LICENSE` for more information.
