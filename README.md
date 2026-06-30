@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/c2/db/62/c2db6244e9b408ab0dc2450a29addf77.jpg" alt="Chainsaw Man Banner" width="80%" />
+  <img src="https://images.weserv.nl/?url=https://i.pinimg.com/736x/c2/db/62/c2db6244e9b408ab0dc2450a29addf77.jpg&w=1200&h=300&fit=cover" alt="Reze Banner" width="100%" />
 </p>
 
 <p align="center">
