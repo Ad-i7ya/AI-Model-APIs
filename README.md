@@ -1,29 +1,33 @@
-# AI Model APIs
+<p align="center">
+  <img src="https://i.imgur.com/8Qz5S0K.png" alt="Chainsaw Man AI Model APIs Banner" width="100%" />
+</p>
 
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)
-![Language](https://img.shields.io/badge/Language-JavaScript-yellow)
-![GitHub last commit](https://img.shields.io/github/last-commit/Ad-i7ya/AI-Model-APIs)
-[![](https://img.shields.io/github/stars/Ad-i7ya/AI-Model-APIs?style=social)](https://github.com/Ad-i7ya/AI-Model-APIs)
+<p align="center">
+  ![License](https://img.shields.io/badge/License-MIT-blue.svg)
+  ![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/Ad-i7ya/AI-Model-APIs)
+</p>
 
-A collection of free, keyless AI model APIs for quick integration. It utilizes standard GET requests and provides JSON samples for testing. It is designed for easy implementation in any project.
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
 
-## Why this exists
-Building apps shouldn't require navigating complex authentication or managing hidden API keys. This project simplifies development by curating direct, open-access endpoints that are ready to use out of the box.
-
-> **Quick Start:** Simply replace `{query}` in any endpoint URL with your search term to receive an instant JSON response.
+## About
+<details>
+  <summary><b>Click to see the philosophy behind this repo</b></summary>
+  Building apps shouldn't require navigating complex API keys. This project simplifies development by curating direct, open-access endpoints that are ready to use out of the box.
+</details>
 
 ## The Collection
-
 | Model Name | Endpoint URL | Status |
 | :--- | :--- | :--- |
 | [GPT-5](#gpt-5) | `https://gpt5.adi7ya.workers.dev/?q={query}` | ✅ Active |
 
 ---
 
-### GPT-5
+### 🤖 GPT-5
 **Endpoint:** `https://gpt5.adi7ya.workers.dev/?q={query}`  
-**Description:** A powerful proxy endpoint for GPT-5 model access.
 
 ```json
 {
