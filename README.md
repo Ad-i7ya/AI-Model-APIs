@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  ![License](https://img.shields.io/badge/License-MIT-blue.svg)
-  ![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)
-  ![GitHub last commit](https://img.shields.io/github/last-commit/Ad-i7ya/AI-Model-APIs)
+  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/Ad-i7ya/AI-Model-APIs?style=for-the-badge" />
 </p>
 
 <p align="center">
