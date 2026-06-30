@@ -1,11 +1,14 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/c2/db/62/c2db6244e9b408ab0dc2450a29addf77.jpg" alt="Chainsaw Man Banner" width="100%" />
+  <img src="https://i.pinimg.com/736x/c2/db/62/c2db6244e9b408ab0dc2450a29addf77.jpg" alt="Chainsaw Man Banner" width="80%" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/github/last-commit/Ad-i7ya/AI-Model-APIs?style=for-the-badge" />
+  <a href="https://github.com/Ad-i7ya/AI-Model-APIs/stargazers">
+    <img src="https://img.shields.io/github/stars/Ad-i7ya/AI-Model-APIs?style=for-the-badge" />
+  </a>
 </p>
 
 <p align="center">
