@@ -42,7 +42,7 @@
     "timestamp": "2026-06-30T11:47:17.159Z",
     "request_id": "82a6df39-a895-41de-887b-96ebeea84ef0",
     "response_time_seconds": 1.307,
-    "dev": "[https://github.com/Ad-i7ya](https://github.com/Ad-i7ya)"
+    "dev": "https://github.com/Ad-i7ya"
   }
 }
 ```
@@ -64,7 +64,7 @@
     "timestamp": "2026-06-30T13:13:51.283Z",
     "request_id": "a9f9a3c5-1e2e-4c37-afaa-dfc01cea8962",
     "response_time_seconds": 1.569,
-    "dev": "[https://github.com/Ad-i7ya](https://github.com/Ad-i7ya)"
+    "dev": "https://github.com/Ad-i7ya"
   }
 }
 ```
