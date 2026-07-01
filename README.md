@@ -27,6 +27,7 @@
 | :--- | :--- | :--- |
 | [GPT-5](#gpt-5) | `https://gpt5.adi7ya.workers.dev/?q={query}` | ✅ Active |
 | [Copilot](#copilot) | `https://copilot.adi7ya.workers.dev/?q={query}` | ✅ Active |
+| [Llama](#llama) | `https://llama.adi7ya.workers.dev/?q={query}` | ✅ Active |
 ---
 
 ### 🤖 GPT-5
@@ -64,6 +65,28 @@
     "timestamp": "2026-06-30T13:13:51.283Z",
     "request_id": "a9f9a3c5-1e2e-4c37-afaa-dfc01cea8962",
     "response_time_seconds": 1.569,
+    "dev": "https://github.com/Ad-i7ya"
+  }
+}
+```
+---
+
+###🤖 Llama
+**Endpoint:** `https://llama.adi7ya.workers.dev/?q={query}`
+
+```json
+{
+  "status": true,
+  "model": "llama-3.1-8b-instant",
+  "creator": "Ad-i7ya",
+  "response": {
+    "text": "Hello — good to see you.  \nWhat’s on your mind today?",
+    "citations": []
+  },
+  "metadata": {
+    "timestamp": "2026-07-01T10:41:24.655Z",
+    "request_id": "50aee445-0e01-4a35-bc0f-ab5748e0f32a",
+    "response_time_seconds": 2.145,
     "dev": "https://github.com/Ad-i7ya"
   }
 }
