@@ -28,6 +28,8 @@
 | [GPT-5](#gpt-5) | `https://gpt5.adi7ya.workers.dev/?q={query}` | ✅ Active |
 | [Copilot](#copilot) | `https://copilot.adi7ya.workers.dev/?q={query}` | ✅ Active |
 | [Llama](#llama) | `https://llama.adi7ya.workers.dev/?q={query}` | ✅ Active |
+| [Gemini](#gemini) | `https://gemini.adi7ya.workers.dev/?q={query}` | ✅ Active |
+
 ---
 
 ### 🤖 GPT-5
@@ -87,6 +89,24 @@
     "timestamp": "2026-07-01T10:41:24.655Z",
     "request_id": "50aee445-0e01-4a35-bc0f-ab5748e0f32a",
     "response_time_seconds": 2.145,
+    "dev": "https://github.com/Ad-i7ya"
+  }
+}
+```
+---
+
+###🤖 Gemini
+**Endpoint:** `https://gemini.adi7ya.workers.dev/?q={query}`
+
+```json
+{
+  "status": true,
+  "creator": "Ad-i7ya",
+  "response": "Hello! How can I assist you today?",
+  "metadata": {
+    "timestamp": "2026-07-01T10:55:34.688Z",
+    "request_id": "58d32a3d-c70f-4108-8ad3-6fa7b44c9e26",
+    "response_time_seconds": 1.828,
     "dev": "https://github.com/Ad-i7ya"
   }
 }
