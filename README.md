@@ -134,7 +134,7 @@
 ---
 
 ### 🎨 DALL-E
-**Endpoint:** `https://dall-e.adi7ya.workers.dev/?q=cat`
+**Endpoint:** `https://dall-e.adi7ya.workers.dev/?q={query}`
 
 **View Example Image:** [Click here to see the cat](https://dall-e.adi7ya.workers.dev/?q=cat)
 
