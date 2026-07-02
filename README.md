@@ -133,6 +133,14 @@
 ```
 ---
 
+### 🎨 DALL-E
+**Endpoint:** `https://dall-e.adi7ya.workers.dev/?q=cat`
+
+**Example Image:**
+![Generated Cat](https://dall-e.adi7ya.workers.dev/?q=cat)
+
+---
+
 ## Usage & Feedback
 This is a personal collection. Please do not open Pull Requests or suggest edits. If you find this collection useful, feel free to **Fork** this repository to your own account and **Star** It to show your support!
 
