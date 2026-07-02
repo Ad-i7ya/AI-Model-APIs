@@ -128,7 +128,8 @@
     "response_time_seconds": 1.437,
     "dev": "[https://github.com/Ad-i7ya](https://github.com/Ad-i7ya)"
   }
-}```
+}
+```
 ## Usage & Feedback
 This is a personal collection. Please do not open Pull Requests or suggest edits. If you find this collection useful, feel free to **Fork** this repository to your own account and **Star** It to show your support!
 
