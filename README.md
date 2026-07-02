@@ -136,8 +136,7 @@
 ### 🎨 DALL-E
 **Endpoint:** `https://dall-e.adi7ya.workers.dev/?q=cat`
 
-**Example Image:**
-![Generated Cat](https://dall-e.adi7ya.workers.dev/?q=cat)
+**View Example Image:** [Click here to see the cat](https://dall-e.adi7ya.workers.dev/?q=cat)
 
 ---
 
