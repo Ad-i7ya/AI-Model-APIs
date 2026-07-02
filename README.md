@@ -29,6 +29,7 @@
 | [Copilot](#copilot) | `https://copilot.adi7ya.workers.dev/?q={query}` | ✅ Active |
 | [Llama](#llama) | `https://llama.adi7ya.workers.dev/?q={query}` | ✅ Active |
 | [Gemini](#gemini) | `https://gemini.adi7ya.workers.dev/?q={query}` | ✅ Active |
+| [GPT-3](#gpt-3) | `https://gpt3.adi7ya.workers.dev/?q={query}` | ✅ Active |
 
 ---
 
@@ -113,6 +114,21 @@
 ```
 ---
 
+###GPT-3
+**Endpoint:** `https://gpt3.adi7ya.workers.dev/?q={query}`
+```json
+{
+  "query": "hello",
+  "status": true,
+  "creator": "Ad-i7ya",
+  "response": "Hello! How can I assist you today?",
+  "metadata": {
+    "timestamp": "2026-07-02T10:15:01.570Z",
+    "request_id": "04ef8c06-47c0-4c25-9ce1-99699c8adc2a",
+    "response_time_seconds": 1.437,
+    "dev": "[https://github.com/Ad-i7ya](https://github.com/Ad-i7ya)"
+  }
+}```
 ## Usage & Feedback
 This is a personal collection. Please do not open Pull Requests or suggest edits. If you find this collection useful, feel free to **Fork** this repository to your own account and **Star** It to show your support!
 
