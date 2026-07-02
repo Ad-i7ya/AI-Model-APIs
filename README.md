@@ -30,6 +30,7 @@
 | [Llama](#llama) | `https://llama.adi7ya.workers.dev/?q={query}` | ✅ Active |
 | [Gemini](#gemini) | `https://gemini.adi7ya.workers.dev/?q={query}` | ✅ Active |
 | [GPT-3](#gpt-3) | `https://gpt3.adi7ya.workers.dev/?q={query}` | ✅ Active |
+| [DALL-E](#dall-e) | `https://dall-e.adi7ya.workers.dev/?q={query}` | ✅ Active |
 
 ---
 
